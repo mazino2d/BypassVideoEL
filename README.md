@@ -13,4 +13,4 @@ B5: Chạy command $ python3 implement.py và nhập cái giá trị yêu cầu.
 
 B6: Đợi.
 
-Sau khi hoàn tất, "gần như" tất cả các video cùng khóa với video bạn xem khi nãy sẽ được tính là xem rồi.
+Sau khi hoàn tất, "gần như" tất cả các video sẽ được tính là xem rồi.
