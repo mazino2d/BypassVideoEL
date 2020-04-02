@@ -9,7 +9,7 @@ B3: Ctr + U: Search với keyword "setFinish". Và lấy các giá trị Context
 
 B4: Lấy cookie (search google).
 
-B5: Chạy command $ python3 implement.py và nhập cái giá trị yêu cầu.
+B5: Chạy command $ python3 implement.py và nhập các giá trị yêu cầu.
 
 B6: Đợi.
 
