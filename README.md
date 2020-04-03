@@ -14,3 +14,5 @@ B5: Chạy command $ python3 implement.py và nhập các giá trị yêu cầu.
 B6: Đợi.
 
 Sau khi hoàn tất, "gần như" tất cả các video sẽ được tính là xem rồi.
+
+Lưu ý: Tool sẽ bypass luôn những video chưa có đủ điều kiện để xem.
