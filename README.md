@@ -8,7 +8,7 @@ B2: Đăng nhập và vào chế độ xem 1 video đó. Ex: (http://e-learning.
 
 B3: Copy ID của video trên url (400850).
 
-B4: Lấy cookies (search google). Sau đó, sửa code ở dòng thứ 20 các thành các cookies tương ứng.
+B4: Lấy cookies (search google). Sau đó, sửa code ở dòng thứ 21 các thành các cookies tương ứng.
 
 B5: Chạy command $ python3 implement.py -h để xem hướng dẫn.
 
