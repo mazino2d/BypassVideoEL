@@ -6,8 +6,8 @@ parse = argparse.ArgumentParser(description='A')
 
 parse.add_argument("--vid", default=None, type=str,help="Bypass 1 video has videoID=video_ID, this arg is obligatory",dest="video_ID")
 parse.add_argument("--all",default=None, type=str, help="Bypass all video has ID <= n, suggest n = 10000, not obligatory",dest="n")
-vidID = parse.parse_args().vid
-all = parse.parse_args().all
+vidID = parse.parse_args().video_ID
+all = parse.parse_args().n
 url = "http://e-learning.hcmut.edu.vn/mod/hvp/ajax.php?contextId=1010672&token=5c0156c3b9be2&action=set_finished&contentId=437&data_type=state&sub_content_id=0&score=0&maxScore=0&opened=1585754436&finished=1585755546"
 
 print("---------------Start bypass--------------")
